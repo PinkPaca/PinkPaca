@@ -9,5 +9,5 @@ PinkPaca/PinkPaca is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-#my personal Resume
+my personal Resume
 [AhreumLeeResume.pdf](https://github.com/PinkPaca/PinkPaca/files/11860018/AhreumLeeResume.pdf)
