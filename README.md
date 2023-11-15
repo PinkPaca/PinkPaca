@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PinkPaca
 - 👀 I’m interested in Front-end, Back-end, Data-Science
-- 🌱 I’m currently learning Data Science in Boot Camp
+- 🌱 I’ve finished learning Data Science in Boot Camp in London
 - 📫 How to reach me ... fmadkdl113@gmail.com
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/fmadkdl113?theme=light&font=Kreon)
